@@ -41,5 +41,5 @@ agents by way of an explicit annotation for context conditions. This plugin acti
 
 1. Import an AgentSpeak(L) plans (in xml format).
 2. Import an alternative sequence of actions and object state transitions (in csv fromat).
-3. Import your knowledge based (in txt fromat).
+3. Import your knowledge base (in txt fromat).
 4. From the Action Frame, select the plugin action context Recognition.
